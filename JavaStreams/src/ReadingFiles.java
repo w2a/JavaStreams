@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class ReadingFiles {
 
-	/**
+	/**add a new comment
 	 * @param args
 	 * @throws IOException 
 	 */
